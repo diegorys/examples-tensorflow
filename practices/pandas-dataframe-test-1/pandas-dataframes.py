@@ -11,7 +11,7 @@ print('Pandas version ' + pd.__version__)
 print('Matplotlib version ' + matplotlib.__version__)
 print("--------------------------------------")
 
-location = '../data/sensors.csv'
+location = '../../data/sensors.csv'
 
 print('--------------------------------------')
 print('1. CREATE DATA')

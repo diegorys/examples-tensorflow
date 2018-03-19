@@ -10,13 +10,13 @@ print('Pandas version ' + pd.__version__)
 print('Matplotlib version ' + matplotlib.__version__)
 print("--------------------------------------")
 
-location = '../data/sensors.csv'
+location = '../../data/sensors.csv'
 
 print('--------------------------------------')
 print('1. GET DATA')
 df = pd.read_csv(location) # Read with header
 # df = pd.read_csv(location, header=None) # Read without header
-#df = pd.read_csv(location, names=['light', 'temperature', 'humidity']) # Read with custom header
+# df = pd.read_csv(location, names=['light', 'temperature', 'humidity']) # Read with custom header
 print(df)
 
 print('--------------------------------------')
