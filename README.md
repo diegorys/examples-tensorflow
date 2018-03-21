@@ -20,4 +20,6 @@ A folder where save data used by practices.
 
 * Pandas dataframe Test 1 -> Revision
 * Pandas dataframe Test 2 -> Revision
+* SKLearn Classification -> Done
+* SKLearn Naïve Bayes -> Done
 * Tensorflow Linear Regression -> Under construction
