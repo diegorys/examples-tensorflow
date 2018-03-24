@@ -18,6 +18,7 @@ A folder where save data used by practices.
 
 ## Practices
 
+* Numbers -> Under construction
 * Pandas dataframe Test 1 -> Revision
 * Pandas dataframe Test 2 -> Revision
 * SKLearn Classification -> Done

@@ -1,3 +1,5 @@
+#Example from "Artificial Intelligence with Python" - Prateek Joshi
+
 import numpy as np
 from sklearn.naive_bayes import GaussianNB
 from sklearn.model_selection import train_test_split

@@ -1,3 +1,5 @@
+#Example from "Artificial Intelligence with Python" - Prateek Joshi
+
 import numpy as np
 from sklearn import preprocessing
 

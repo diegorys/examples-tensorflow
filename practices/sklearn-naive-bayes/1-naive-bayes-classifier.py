@@ -1,3 +1,5 @@
+#Example from "Artificial Intelligence with Python" - Prateek Joshi
+
 import numpy as np
 from sklearn.naive_bayes import GaussianNB
 from sklearn.externals import joblib
@@ -9,7 +11,7 @@ input_file = '../../data/data_multivar_nb.txt'
 
 # Load data from input file
 data = np.loadtxt(input_file, delimiter=',')
-X, y = data[:, :-1], data[:, -1] 
+X, y = data[:, :-1], data[:, -1]
 
 # Create Naive Bayes classifier 
 classifier = GaussianNB()
