@@ -14,37 +14,37 @@ A folder where save data used by practices.
 
 ## Hi
 
-**1. NumPy:** *Description pending* -> Done
+**1. NumPy:**  Hello world in NumPy-> Done
 
 *Post pending*
 
-**2. OpenCV:** *Description pending* -> Pending
+**2. OpenCV:**  Hello world in OpenCV-> Pending
 
 *Post pending*
 
-**3. OpenGym:** *Description pending* -> Pending
+**3. OpenGym:**  Hello world in OpenGym-> Pending
 
 *Post pending*
 
-**4. Pandas:** *Description pending* -> Done
+**4. Pandas:**  Hello world in Pandas-> Done
 
 *Post pending*
 
-**5. PyBrain:** *Description pending* -> Done
+**5. PyBrain:**  Hello world in PyBrain-> Done
 
 *Post pending*
 
-**6. Scikit-learn::** *Description pending* -> Done
+**6. Scikit-learn::**  Hello world in Scikit-> Done
 
 *Post pending*
 
-**7. SciPy:** *Description pending* -> Pending
+**7. SciPy:**  Hello world in SciPy-> Pending
 
 *Post pending*
 
-**8. Tensorflow:** *Description pending* -> Done
+**8. Tensorflow:**  Hello world in Tensorflow-> Done
 
-*Post pending*
+http://diegorys.es/2016/12/07/primeros-pasos-con-tensorflow-linux/
 
 ## Practices
 
