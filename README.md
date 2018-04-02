@@ -12,6 +12,7 @@ A folder where save data used by practices.
 * OpenCV -> Pending
 * OpenGym -> Pending
 * Pandas -> Done
+* PyBrain -> Done
 * Scikit-learn -> Done
 * SciPy -> Pending
 * Tensorflow -> Done
