@@ -85,3 +85,7 @@ http://diegorys.es/2016/12/07/primeros-pasos-con-tensorflow-linux/
 **7. Frozen Lake:** *Description pending*  -> Under construction
 
 *Post pending*
+
+**8. Tensorflow Keras Neuronal Network:** *Description pending*
+
+*Post pending*
