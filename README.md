@@ -89,3 +89,7 @@ http://diegorys.es/2016/12/07/primeros-pasos-con-tensorflow-linux/
 **8. Tensorflow Keras Neuronal Network:** *Description pending*
 
 http://diegorys.es/2020/02/02/como-crear-una-red-neuronal-con-tensorflow-y-keras/
+
+**9. Q-Learning:** *Description pending*  -> Under construction
+
+*Post pending*
