@@ -34,6 +34,6 @@ for i in range(num_episodes):
     #jList.append(j)
     rList.append(rAll)
 
-print "Score over time: " +  str(sum(rList)/num_episodes)
-print "Final Q-Table Values"
-print Q
+print("Score over time: " +  str(sum(rList)/num_episodes))
+print("Final Q-Table Values")
+print(Q)
