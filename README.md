@@ -56,6 +56,14 @@ A folder where save data used by practices.
 
 http://diegorys.es/2016/12/07/primeros-pasos-con-tensorflow-linux/
 
+**9. NLTK:** Hello world in NLTK -> Pending
+
+*Post pending*
+
+**10. SKFuzzy** Hello world in SK Fuzzy -> Pending
+
+*Post pending*
+
 ## Practices
 
 **1. Numbers:** *Description pending*  -> Under construction
