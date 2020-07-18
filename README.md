@@ -56,7 +56,7 @@ A folder where save data used by practices.
 
 http://diegorys.es/2016/12/07/primeros-pasos-con-tensorflow-linux/
 
-**9. NLTK:** Hello world in NLTK -> Pending
+**9. NLTK:** Hello world in NLTK -> Done
 
 *Post pending*
 
